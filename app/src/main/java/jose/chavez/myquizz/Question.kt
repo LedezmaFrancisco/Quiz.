@@ -1,0 +1,10 @@
+package jose.chavez.myquizz
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import androidx.annotation.StringRes
+
+data class Question(@StringRes val textResId: Int, val answer: Boolean) {
+
+
+}

@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">QuizApp</string>
+    <!--String para la GeoQuizApp-->
+
+    <!--Questions-->
+    <string name="question_cielo">El cielo es azul?</string>
+    <string name="question_araña">Las arañas son insectos?</string>
+    <string name="question_gato">El gato es un felino</string>
+    <string name="question_valles">Cuvalles es grande</string>
+
+
+    <!--Buttons-->
+    <string name="true_button">True</string>
+    <string name="false_button">false</string>
+    <string name="next_button">siguiente pregunta</string>
+
+    <!--Toast-->
+    <string name="correct_toast">Muy bien!</string>
+    <string name="incorrect_toast">Lo siento pero no!</string>
+    <!---->
+
+</resources>
